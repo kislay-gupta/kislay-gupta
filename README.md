@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BNMU Department websites<br>🌱 I’m currently learning NextJS<br>💬 Ask me about Python , Tailwind CSS , React JS and JavaScript<br><br>
+🔭 I’m currently Exploring FullStack with NextJs and framer-motion <br>🌱 I’m currently learning Typescript<br>💬 Ask me about Python, Tailwind CSS, React JS and JavaScript<br><br>
 
 
 ## 🌐 Socials:
